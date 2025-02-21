@@ -2,7 +2,8 @@
 
 ## **Project Information**
 **Project Title:** Object Recognition System Using Image Processing and Classification  
-**Group Members (if any):** Adit Shah & Jheel Kamdar
+**Group Members:** Adit Shah & Jheel Kamdar 
+
 **Submission Date:** 20 February 2025
 
 ## **Project Overview**
