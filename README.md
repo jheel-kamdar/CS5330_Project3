@@ -23,7 +23,6 @@ https://drive.google.com/drive/folders/1i0Brfnbj0waIXl4GVfFONXNbXBS7uYrA
 - **Dependencies:**  
   - OpenCV  
   - CMake  
-  - Hugging Face Depth Anything (for depth-based segmentation)  
 
 ---
 
